@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{vue,js,ts,jsx,tsx}'],theme:{extend:{fontFamily:{sans:['Instrument Sans','Inter','Helvetica Neue','Arial','sans-serif']},colors:{paper:'#F4F4F0',ink:'#111111',muted:'#6B6B66',line:'#D6D6D0',industrial:'#087FB8'},letterSpacing:{editorial:'-0.055em'}}},plugins:[]}

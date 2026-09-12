@@ -1,0 +1,2 @@
+<script setup lang="ts">import Navbar from './components/Navbar.vue';import Hero from './components/Hero.vue';import About from './components/About.vue';import SelectedWorks from './components/SelectedWorks.vue';import Experience from './components/Experience.vue';import Contact from './components/Contact.vue';import Footer from './components/Footer.vue';</script>
+<template><div class="min-h-screen bg-paper text-ink"><Navbar/><main><Hero/><About/><SelectedWorks/><Experience/><Contact/></main><Footer/></div></template>

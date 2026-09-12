@@ -1,0 +1,3 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wdth,wght@75..100,400..700&display=swap');
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{font-family:'Instrument Sans','Inter','Helvetica Neue',Arial,sans-serif;color:#111;background:#f4f4f0;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;scroll-behavior:smooth}html{scroll-behavior:smooth}body{margin:0;min-width:320px;min-height:100vh;background:#f4f4f0}::selection{background:#087fb8;color:#fff}img{display:block;max-width:100%}.tracking-editorial{letter-spacing:-.055em}button{font-family:inherit}@media(max-width:768px){html{scroll-padding-top:80px}body{overflow-x:hidden}}
